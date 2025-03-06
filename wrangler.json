@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "shrill-dust-1c02",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "1049b92d-465c-49a0-8327-6b3ea488329e",
+      "database_name": "shrill-dust-1c02-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
